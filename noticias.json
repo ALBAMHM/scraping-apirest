@@ -1,0 +1,487 @@
+[
+  {
+    "titulo": "En DirectoÚltimas noticias de la información política, en directo | Feijóo eleva el tono en Cataluña y sostiene que el PSC es “separatista”",
+    "descripcion": "Los dirigentes nacionales de los partidos se vuelcan con la campaña electoral de las autonómicas | Aragonès amenaza: “La decadencia vendrá a Cataluña si no gana Esquerra Republicana” | Puigdemont, optimista en un mitin en Francia: “Vamos a ganar las elecciones”",
+    "link": "https://elpais.com/espana/2024-05-04/ultimas-noticias-de-la-informacion-politica-en-directo.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/VBJMZEJOYZDNNFT27JZY3TWNFA.jpg?auth=f510d5a6d54a95781b1f550b712551350dd986c5c763a6a5435fee695e861855&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "Javier MileiMilei ataca al presidente, Pedro Sánchez",
+    "descripcion": "La Presidencia argentina difunde un virulento comunicado, en respuesta al ministro Óscar Puente, quien había aludido en una charla con estudiantes a la posible “ingesta de sustancias” del dirigente ultraderechista. Exteriores “rechaza rotundamente” las críticas Buenos Aires",
+    "link": "https://elpais.com/argentina/2024-05-04/milei-ataca-al-presidente-espanol-pedro-sanchez-ha-puesto-en-riesgo-a-las-mujeres-espanolas-permitiendo-la-inmigracion-ilegal.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/UJ6L5CX4EFEOFJVP4DN5EMUJHE.jpg?auth=9838ae95256c7ce70f3b24e7fd791a0bf3dcc76485affd757fbd8eceb2a17d74&width=414&height=233&focal=1611%2C755"
+  },
+  {
+    "titulo": "vivienda alquilerEl negocio de falsificar nóminas para alquilar: “Te hago indefinido con el sueldo que me digas”",
+    "descripcion": "Los requisitos cada vez mayores de los caseros llevan a algunos inquilinos a hacer uso de prácticas ilegales que conllevan penas de prisión",
+    "link": "https://elpais.com/noticias/viviendas-alquiler/"
+  },
+  {
+    "titulo": "Felipe VIEl Rey vuelve a jurar bandera en Zaragoza por sus 40 años en el Ejército de Tierra",
+    "descripcion": "Felipe VI acude con sus compañeros de promoción y reafirma su compromiso con España ante los actuales alumnos, entre los que se encuentra la dama cadete Leonor de Borbón Ortiz",
+    "link": "https://elpais.com/espana/2024-05-04/el-rey-vuelve-a-jurar-bandera-en-zaragoza-por-sus-40-anos-en-el-ejercito-de-tierra.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/HM5LSTZSROGPLX4M7XTWAAMGCA.jpg?auth=1af88fd03eaa8b3405a9199256df2dfbb7c6a5097288c809a00af2f5f74b1a2f&width=414&height=233&focal=3239%2C1080"
+  },
+  {
+    "titulo": "ejemplo",
+    "descripcion": "ejemplo",
+    "link": "ejemplo",
+    "imagen": "ejemplo"
+  },
+  {
+    "titulo": "Sanidad públicaEl Hospital de Manises pasa a la gestión directa tras 15 años de concesión privada",
+    "descripcion": "El centro se convierte en el cuarto departamento de salud revertido a la Generalitat Valenciana tras los de Alzira, Torrevieja y Dénia",
+    "link": "https://elpais.com/espana/comunidad-valenciana/2024-05-04/el-hospital-de-manises-pasa-a-la-gestion-directa-tras-15-anos-de-concesion-privada.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/73XSMJKMYMEUGXADQBI3QJJQ2Q.jpg?auth=ceff37ca633e73493e8fdb7ba73c42b0606e4b2c79cf01cd75442e28a300c096&width=414&height=233&focal=2370%2C1700"
+  },
+  {
+    "titulo": "ELECCIONES CATALANASPuigdemont: “Vamos a hacer lo que nos dé la gana, porque durante seis años y medio ya lo hemos hecho” ",
+    "descripcion": "El candidato de Junts a las elecciones catalanas trata de exprimir electoralmente su larga evasión de la justicia española   ",
+    "link": "https://elpais.com/espana/elecciones-catalanas/2024-05-04/puigdemont-vamos-a-hacer-lo-que-nos-de-la-gana-porque-durante-seis-anos-y-medio-ya-lo-hemos-hecho.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/ZOGTMGZBAVEK3B2RUAOMOAAWJ4.jpg?auth=9a87263f2afbb6dbb815c4112d7ad777955030b25a750b3b4e604a1402ce5b19&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "ELECCIONES CATALANASEl PSC se aferra a Sánchez para obtener una “amplísima” mayoría en Cataluña",
+    "descripcion": "El presidente pretende impulsar a los socialistas con un discurso social y crítico con los partidos conservadores en Montmeló (Barcelona)",
+    "link": "https://elpais.com/espana/elecciones-catalanas/2024-05-04/el-psc-se-aferra-a-sanchez-para-obtener-una-amplisima-mayoria-en-cataluna.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/XWJFOQN5YSYJFCPBP2PEN3HQ2Q.jpg?auth=a74ecdb5ae30dddd7e42b07667a7cd93c1e4131a41d3b89d4724827067a403d8&width=414&height=233&focal=2126%2C1249"
+  },
+  {
+    "titulo": "EN DIRECTOReal Madrid - Cádiz, en directo | Rotación masiva de Ancelotti",
+    "descripcion": "El equipo blanco podría coronarse como campeón en el caso de sumar un triunfo y de que el Barça no gane en su visita al Girona",
+    "link": "https://elpais.com/deportes/futbol/2024-05-04/real-madrid-cadiz-en-directo-el-partido-de-laliga-en-vivo.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/6BE42D5PC7B6RAYALOUYLWKRFU.jpg?auth=15b517177041cccd85ce3316ae114e49878329d6c83def2d66e46baf60d8cc7a&width=414&height=233&focal=2713%2C1235"
+  },
+  {
+    "titulo": "Felipe VIEl Rey vuelve a jurar bandera en Zaragoza por sus 40 años en el Ejército de Tierra",
+    "descripcion": "Felipe VI acude con sus compañeros de promoción a la Academia de San Gregorio y reafirma su compromiso con España ante los actuales alumnos, entre los que se encuentra la dama cadete Leonor de Borbón Ortiz",
+    "link": "https://elpais.com/espana/2024-05-04/el-rey-vuelve-a-jurar-bandera-en-zaragoza-por-sus-40-anos-en-el-ejercito-de-tierra.html?autoplay=1",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/HM5LSTZSROGPLX4M7XTWAAMGCA.jpg?auth=1af88fd03eaa8b3405a9199256df2dfbb7c6a5097288c809a00af2f5f74b1a2f&width=414&height=233&focal=3239%2C1080"
+  },
+  {
+    "titulo": "sucesosUn drogadicto de 45 años muere tras sufrir una agresión por parte de otros dos en Alcobendas",
+    "descripcion": "Los presuntos agresores, que aseguran que el detonante fue el robo de un móvil a uno de ellos, están detenidos a la espera de determinar la causa del fallecimiento",
+    "link": "https://elpais.com/espana/madrid/2024-05-04/un-drogadicto-de-45-anos-muere-tras-sufrir-una-agresion-por-parte-de-otros-dos-en-alcobendas.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/BTD5IFBHGLA44YBWHXD7DOWZTI.jpg?auth=21f1fd5fcf27aa467799062857e89e8060fa667fd2b43a2eb3d439352667d40e&width=414&height=233&focal=2277%2C1348"
+  },
+  {
+    "titulo": "Felipe VILa jura de bandera del rey Felipe VI en Zaragoza, en imágenes",
+    "descripcion": "El Rey celebra en Zaragoza del 40 aniversario de su promoción en la Academia General Militar (AGM) del Ejército de Tierra. Cuenta con la presencia de la reina Letizia en el palco de autoridades y de la princesa Leonor formando junto al resto de cadetes de segundo curso",
+    "link": "https://elpais.com/espana/2024-05-04/la-jura-de-bandera-del-rey-felipe-vi-en-zaragoza-en-imagenes.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/LW7A5FJRZFGEFGMYBTKX6O4FCY.jpg?auth=7fe95afa47c2fc360abc9e1f58fb94211a3b3212acda2a0b7766fd12ecabd69f&width=414&height=233&focal=3207%2C1064"
+  },
+  {
+    "titulo": "FEMINICIDIOSLa Policía Nacional detiene a un hombre como sospechoso de la muerte violenta de una mujer en Zaragoza",
+    "descripcion": "Se está investigando si el agresor conocía a la víctima, que fue encontrada la madrugada de este sábado en una calle de la capital aragonesa",
+    "link": "https://elpais.com/sociedad/2024-05-04/la-policia-nacional-detiene-a-un-hombre-como-sospechoso-de-la-muerte-violenta-de-una-mujer-en-zaragoza.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/MNPCPW4I2VANVK5YA24GOL533Q.jpg?auth=5f73b362abb4f4dbcb5c7da0708495289d8a89f07611d20b4f25b809248a12cb&width=414&height=233&focal=581%2C568"
+  },
+  {
+    "titulo": "incendiosMuere un hombre de 77 años en el incendio de su vivienda en Leganés a causa de una vela encendida",
+    "descripcion": "Los bomberos confinan a una parte de los vecinos en sus casas y otros huyen por la escalera, pese a lo cual el Summa 112 no ha tenido que atender a ninguna persona intoxicada por el humo",
+    "link": "https://elpais.com/espana/madrid/2024-05-04/muere-un-hombre-de-77-anos-en-el-incendio-de-su-vivienda-en-leganes.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/RC3XHMNC7VCLBJJDLUSDLADEN4.jpg?auth=3985f302a657a40f41d3908381c06b1994ebb3a64c4d5e5c4c9f4e88d14427da&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "En DirectoÚltimas noticias de la información política, en directo | Feijóo eleva el tono en Cataluña y sostiene que el PSC es “separatista”",
+    "descripcion": "Los dirigentes nacionales de los partidos se vuelcan con la campaña electoral de las autonómicas | Aragonès amenaza: “La decadencia vendrá a Cataluña si no gana Esquerra Republicana” | Puigdemont, optimista en un mitin en Francia: “Vamos a ganar las elecciones”",
+    "link": "https://elpais.com/espana/2024-05-04/ultimas-noticias-de-la-informacion-politica-en-directo.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/VBJMZEJOYZDNNFT27JZY3TWNFA.jpg?auth=f510d5a6d54a95781b1f550b712551350dd986c5c763a6a5435fee695e861855&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "En DirectoGuerra entre Israel y Gaza, en directo | Una delegación de Hamás llega a El Cairo para tratar el alto el fuego",
+    "descripcion": "La milicia acude a la mesa de negociaciones “con espíritu positivo” | Una delegación de mediadores de Qatar también se ha  desplaza a Egipto, según informa Al Jazeera | Las autoridades gazatíes elevan a más de 34.650 los muertos en la Franja desde el 7 de octubre",
+    "link": "https://elpais.com/internacional/2024-05-04/guerra-entre-israel-y-gaza-en-directo.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/HZF3UM5RYRHEVJJVLDZCE3PYBA.jpg?auth=7c33ede0ecfa780029edc494b59c52fed9af09f9b7caa3e6e8440aac7d5607f8&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "ESTILO DE VIDAQué es la coenzima Q10 y para qué sirve",
+    "descripcion": "Analizamos las beneficios y las contraindicaciones de este potente antioxidante esencial para el correcto funcionamiento celular",
+    "link": "https://elpais.com/escaparate/estilo-de-vida/2024-05-04/coenzima-q10.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/MJAS25CIDVEVRPSNPXUZEY2TWY.png?auth=fca95feb4f533bd4186b01995b42b9f6e20519b10ffb88d2c9b88c1e8cdb151b&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "ESTILO DE VIDA15 zapatillas de pádel para hombre de marcas top ventas",
+    "descripcion": "Asics, Mizuno, Wilson o Bullpadel: escogemos zapatillas de padel masculinas para todos los niveles y presupuestos con las que competir al máximo nivel al salir a pista",
+    "link": "https://elpais.com/escaparate/estilo-de-vida/2024-05-04/zapatillas-padel.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/CGTJUQR2CZEBTN36QY4TFZ4PWU.png?auth=cafda1b649c34c5eb6edd99a8bf2a0fc32cd92ff80f63acacfc1fcdb692fc975&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "NBALuka Dončić lleva a los Dallas Mavericks a las semifinales de la Conferencia Oeste",
+    "descripcion": "Los Cleveland Cavaliers y los Orlando Magic se jugarán la clasificación en el séptimo partido de su serie",
+    "link": "https://elpais.com/deportes/baloncesto/2024-05-04/luka-doncic-lleva-a-los-dallas-mavericks-a-las-semifinales-de-la-conferencia-oeste.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/HANALU5373JNYGTQF56EPHOUL4.jpg?auth=279ae138fcecc3e3c8621a7befe4b74516c9d73c0a143f4f124149db62ec22c3&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "Feria del Libro de Buenos AiresDe Borges al “exorcismo contra la extrema derecha”: un puente cultural une Buenos Aires y Lisboa",
+    "descripcion": "La capital portuguesa es la ciudad invitada de la Feria del Libro de Buenos Aires. “Es preferible vivir en una democracia imperfecta que en una autocracia”, dice Lídia Jorge, estrella de la delegación lusa",
+    "link": "https://elpais.com/argentina/2024-05-04/un-puente-cultural-une-buenos-aires-y-lisboa.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/4QL322HDVVDUDL2XJ7J3C3RPBY.jpg?auth=dc80d8b6b99335baaeb719dbf7d2f2eb0dcecc626a8183747e3aab944582edab&width=414&height=233&focal=2740%2C860"
+  },
+  {
+    "titulo": "Madonna, The Celebration TourRío de Janeiro espera ansiosa el concierto gratuito de Madonna en Copacabana",
+    "descripcion": "La reina del pop cerrará este sábado por la noche en Brasil la gira con la que ha celebrado sus 40 años de carrera artística",
+    "link": "https://elpais.com/america/2024-05-04/rio-de-janeiro-espera-ansiosa-el-concierto-gratuito-de-madonna-en-copacabana.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/4UONH2SY7J2FTTPFNXXATGH3UY.jpg?auth=d8ba4ebdf29b1b9a27021c91125432fae0956691e7dc29234060688819b2345a&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "Carabineros de ChileMejor le echamos la culpa al perro",
+    "descripcion": "El problema es que sectores de la izquierda y el progresismo busquen demostrar su preocupación por determinados temas reproduciendo discursos y recetas de sus adversarios",
+    "link": "https://elpais.com/chile/2024-05-04/mejor-le-echamos-la-culpa-al-perro.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/M7N7SGI6GJC4DMJE3NRN57ARYA.jpg?auth=8588da7deb1d69f4d88a68a5f4c02f48fa0d4ff40cb12894c6203c11759a1b60&width=414&height=233&focal=2093%2C1165"
+  },
+  {
+    "titulo": "Gustavo PetroEl Petro del estallido social impulsa la Constituyente",
+    "descripcion": "El discurso del Primero de Mayo de 2024 ha sido uno de los más radicales del presidente colombiano. El Petro que hizo campaña con las protestas de 2021 está de regreso",
+    "link": "https://elpais.com/america-colombia/2024-05-04/el-petro-del-estallido-social-impulsa-la-constituyente.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/7V65Q4LPWZGDRI5SSFOY62QBGM.jpg?auth=63dc9f5d91ae72c38eaf4bbd29810686328c6335060789e72b5798c73fa1adb7&width=414&height=233&focal=2380%2C1016"
+  },
+  {
+    "titulo": "PeriodistasSoledad Onetto a tres meses del nacimiento de su hijo Borja: “Convertirme en madre ha sido alucinante, loco y conmovedor”",
+    "descripcion": "La periodista chilena habla con EL PAÍS sobre la maternidad a los 47 años, analiza el rol de la televisión a la que regresa este lunes como conductora de noticiario central de Canal 13, desclasifica sus nuevos proyectos y confiesa sus temores: “Por primera vez tengo miedo a morir” ",
+    "link": "https://elpais.com/chile/2024-05-04/soledad-onetto-a-tres-meses-del-nacimiento-de-su-hijo-borja-convertirme-en-madre-ha-sido-alucinante-loco-y-conmovedor.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/PMVW6G6CHZCYNDQM6QO4WIBSAM.jpg?auth=c30ed3fda96560f20be981028b976293f422a97cc46212d147b8ddeeef696b66&width=414&height=233&focal=1779%2C814"
+  },
+  {
+    "titulo": "Día de Star WarsAprender las artes ‘jedi’ o poseer un sable de luz en México: el sueño cumplido de todo ‘fan’ de ‘Star Wars’",
+    "descripcion": "Academias como Quetzal y empresas diseñadoras como KTSR Sabers en Ciudad de México permiten a las personas practicar artes marciales y utilizar armas en su entrenamiento inspirado en la popular saga",
+    "link": "https://elpais.com/mexico/2024-05-04/aprender-las-artes-jedi-o-poseer-un-sable-de-luz-en-mexico-el-sueno-cumplido-de-todo-fan-de-star-wars.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/FDFRV5OQJJC4FAHZLOLGXJNRYQ.jpg?auth=cbe534daf7456313a5595e89f5d8b13792740cc15ea6bc4df51fce8aa7f3f32e&width=414&height=233&focal=2697%2C1711"
+  },
+  {
+    "titulo": "ELECCIONES EN PANAMÁ“Cerrar el Darién”: el drama migratorio pasa desapercibido por Ciudad de Panamá",
+    "descripcion": "El discurso contra la migración se cuela en la campaña, aunque la crisis humanitaria brilla por su ausencia en el debate público",
+    "link": "https://elpais.com/america/2024-05-04/cerrar-el-darien-el-drama-migratorio-pasa-desapercibido-por-ciudad-de-panama.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/2JRIOKTC545MXY7GJK2VUSB4QA.jpg?auth=abba32f94f2cd999c7bb340b08cf398ad821595ccfb7360c78c557a246de14bf&width=414&height=233&focal=2792%2C1783"
+  },
+  {
+    "titulo": "CubaLa principal oposición al régimen cubano son las madres",
+    "descripcion": "Varias madres protestaron recientemente a las afueras de la casa de Díaz-Canel. La mayoría de las protestas de Cuba en los últimos tiempos las han impulsado mujeres como ellas",
+    "link": "https://elpais.com/america/2024-05-04/la-principal-oposicion-al-regimen-cubano-son-las-madres.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/SO5A45YTGVFP3INL64RBWXZ4N4.jpeg?auth=37242e21b963f0f453d4b7788741b5fc743955c78aaf413f06c75354d5852a70&width=414&height=233&focal=1496%2C313"
+  },
+  {
+    "titulo": "ELECCIONES EN PANAMÁMartín Torrijos: “Panamá se juega en esta elección el inicio del pacto de impunidad”",
+    "descripcion": "El expresidente es el rival que más se acerca en las encuestas a José Raúl Mulino, el sustituto del inhabilitado Ricardo Martinelli",
+    "link": "https://elpais.com/america/2024-05-04/martin-torrijos-panama-se-juega-en-esta-eleccion-el-inicio-del-pacto-de-impunidad.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/CJNHYNUA7FDUNIDIN5E5ROIBHI.jpg?auth=3c7f96c81434853d93a173ba2d59842da58077fee9cbb1103eba1096a681bd02&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "EducaciónLos estudiantes de la Nacional rechazan la posesión del nuevo rector: “El Gobierno de Petro es nuestro punto de apoyo”",
+    "descripcion": "La principal universidad pública de Colombia ha vuelto a entrar en ebullición luego de que Ismael Peña tomara posesión de su cargo en una notaría, sin el aval de la ministra de Educación",
+    "link": "https://elpais.com/america-colombia/2024-05-04/los-estudiantes-de-la-nacional-rechazan-la-posesion-del-nuevo-rector-el-gobierno-de-petro-es-nuestro-punto-de-apoyo.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/FUIRN6Z7WNF4JHOGW5RO6IEZAI.jpg?auth=4a7c3bf7c95368665cf411bd8c6b3af4e422e9745adb2232a8d2613b4fb1a4bc&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "Debate presidencialSin celulares y centrado en la reinserción social: el primer debate electoral celebrado en una cárcel en México",
+    "descripcion": "Celebrado en el penal de Santa Martha Acatitla, se trata apenas del segundo ejercicio de su tipo en Latinoamérica, en un esfuerzo por quitar el estigma y fomentar un voto informado entre cientos de personas en prisión preventiva",
+    "link": "https://elpais.com/mexico/elecciones-mexicanas/2024-05-04/sin-celulares-y-con-preguntas-sobre-reinsercion-social-el-primer-debate-electoral-celebrado-en-una-carcel-en-mexico.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/HY2BSXGOF5FLPMOOH4XD3ABM34.jpeg?auth=50a8be95fadf71d9f5755137e067c81d58283749b9545c82e14ed42657daeabd&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "EducaciónMéxico se queda con un pie fuera de la prueba PISA",
+    "descripcion": "La OCDE avisa que el país no ha cumplido con algunos requisitos de acceso al examen de evaluación internacional para estudiantes de 15 años en matemáticas, ciencia y lectura. Mientras, los expertos debaten su utilidad",
+    "link": "https://elpais.com/mexico/2024-05-04/mexico-se-queda-con-un-pie-fuera-de-la-prueba-pisa.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/TXC2BHEROFHMHCH2VONSUCQB6I.jpg?auth=5accfde5c9b3ce95ceb81fbf211258b7016d8f8c94b09934078687421c3cb143&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "Gustavo PetroEl misterio de la gorra que el presidente Petro no se ha quitado en un mes",
+    "descripcion": "La cabeza siempre cubierta del mandatario colombiano ha generado intriga, y teorías ridículas en redes sociales",
+    "link": "https://elpais.com/america-colombia/2024-05-04/el-misterio-de-la-gorra-que-el-presidente-petro-no-se-ha-quitado-en-un-mes.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/DKT3BJ7PF5HLHF7F2SYZ5KDHPA.JPG?auth=ad6250d4a9a7febe725980f90871e90ae27441fb827bd136d97e24a562f35743&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "BRASILMadonna revoluciona Brasil con su concierto gratuito en Copacabana",
+    "descripcion": "Fanáticos acampaban desde este viernes para poder disfrutar de la presentación de la artista en su gira ‘Celebration’",
+    "link": "https://elpais.com/america/2024-05-04/madonna-revoluciona-brasil-con-su-concierto-gratuito-en-copacabana.html?autoplay=1",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/F5LGMRZDG2MXDUZLIY32XAZU3U.jpg?auth=842dd6bf329919ec5cb6b644668e292f285da67cc9465d69de521c38a753b1d3&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "Elecciones MéxicoEntre la democracia y el acarreo: los sindicatos se posicionan ante las elecciones",
+    "descripcion": "Grandes líderes sindicales dan su apoyo a Claudia Sheinbaum en el Día del Trabajo mientras otros más pequeños y de polémica trayectoria hacen su particular campaña",
+    "link": "https://elpais.com/mexico/elecciones-mexicanas/2024-05-04/entre-la-democracia-y-el-acarreo-los-sindicatos-se-posicionan-ante-las-elecciones.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/WK6LCKVRZBC77MRCQDVOLDTIRE.jpg?auth=fd066e7e12b45b8fc6a8eb1420d59e4749271298648ab6255bc8a6c273831296&width=414&height=233&focal=1290%2C523"
+  },
+  {
+    "titulo": "FERIAS DEL LIBROEl fenómeno fan desboca ventas y público en la feria del libro de Valencia",
+    "descripcion": "La literatura juvenil, sobre todo las novelas románticas, arrastra a un público que se moviliza para conocer y comprar la obra de sus autores favoritos ",
+    "link": "https://elpais.com/espana/comunidad-valenciana/2024-05-04/el-fenomeno-fan-desboca-ventas-y-publico-en-la-feria-del-libro-de-valencia.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/RDDD5DPV5BB3FEBZ7CGBH2NPVQ.JPG?auth=27285de295841c5eb4b89506fd70099f5e2f5196490d031349a9454d02c2acc7&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "Costa RicaLa duda existencial de Costa Rica: ¿debe el país ‘verde’ explorar los combustibles fósiles?",
+    "descripcion": "La nación se ufana de una matriz eléctrica dominada por renovables, pero crece la presión por la demanda. El debate es si probar la exploración de gas natural y petróleo, como plantea el Gobierno, o prohibirla, como propone un proyecto de ley",
+    "link": "https://elpais.com/america-futura/2024-05-04/la-duda-existencial-de-costa-rica-debe-el-pais-verde-explorar-los-combustibles-fosiles.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/2WZ6WTBM2JFBTOJ52Q76WCTKNE.jpg?auth=cc5812a5d3acd75bd424994db9d341ab9035fcb41b683fdd81090c128689f808&width=414&height=233&focal=4640%2C1750"
+  },
+  {
+    "titulo": "TeslaLos planes de Tesla en México se desinflan (pero no mueren)",
+    "descripcion": "La empresa ha vendido menos coches de los producidos en siete de los últimos ocho trimestres, apuntan analistas, lo que hace menos necesaria una planta nueva en Monterrey",
+    "link": "https://elpais.com/mexico/economia/2024-05-04/los-planes-de-tesla-en-mexico-se-desinflan.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/5IRJLM3ZHJE2DI5NQ4VEZ6L2J4.jpeg?auth=5976dfbcf2df357fc08ec58a146cafae72537b119fc7ac468aee7a707e6e1715&width=414&height=233&focal=1197%2C980"
+  },
+  {
+    "titulo": "Estar sin estarComo una estatua",
+    "descripcion": "Deseo que la vehemencia con la que salivan los que exigen la prohibición de la tauromaquia la apliquen para erradicar la pornografía infantil o la anquilosada politiquería de las mentiras",
+    "link": "https://elpais.com/mexico/opinion/2024-05-04/como-una-estatua.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/ZRPT2IJI6FG6XEGUPV7VTTGUDU.jpeg?auth=f0d2a5e7d815342d18af96cbb157c128529427be2a72a85577b46630b647494f&width=414&height=233&focal=658%2C496"
+  },
+  {
+    "titulo": "Los presos de Ecuador pasan hambre",
+    "descripcion": "La empresa que alimentaba a 11.000 internos deja de prestar su servicio por una deuda de 30 millones contraída con el Gobierno, a lo que se suman las denuncias por torturas",
+    "link": "https://elpais.com/america/2024-05-04/los-presos-de-ecuador-pasan-hambre.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/N2W2IIJUFBFMDFVKAFRPKOBQ7M.jpg?auth=4891ad917794f3ba895593ec1e7d6bb5b47b2ee02341752986d53a764b2f5f6e&width=414&height=233&focal=3580%2C2480"
+  },
+  {
+    "titulo": "HORARIOSEspaña registra un mínimo de empleados que trabajan más de 49 horas a la semana",
+    "descripcion": "Son el 6,7%, casi la mitad que a principios de siglo, mientras el promedio europeo (7,1%) ha caído menos. La mayoría son autónomos, frente al 2,6% entre asalariados",
+    "link": "https://elpais.com/economia/2024-05-04/espana-registra-un-minimo-de-empleados-que-trabajan-mas-de-49-horas-a-la-semana.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/UUWSUKXJBD6JETSRP4I7IESYEA.jpg?auth=7e75dec317cf7a4e89e7205a433ee5705a5c6f7415baafed55588bb8ff396114&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "fiscalidadEl impuesto sobre el patrimonio castiga más a los directivos que a las grandes fortunas",
+    "descripcion": "Un estudio académico muestra cómo el gravamen real del tributo desciende una vez se superan los cinco millones de euros de base imponible",
+    "link": "https://elpais.com/economia/2024-05-04/el-impuesto-sobre-el-patrimonio-castiga-mas-a-los-directivos-que-a-las-grandes-fortunas.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/6E4OVP234NBFHMRBENB6GXM6AU.jpg?auth=2e1de72ec9d72c8faa922c7ede700c4e3b50f1239c4c8576bb40d8c4bfb7b6ad&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "ECONOMÍA AZULGunter Pauli: “La globalización no debe ser de mercancía, sino de tecnología”",
+    "descripcion": "El padre del concepto de la economía azul aboga por acabar con la transición ecológica solo “para ricos” y pide a Europa que abandone el discurso belicista",
+    "link": "https://elpais.com/economia/2024-05-04/gunter-pauli-la-globalizacion-no-debe-ser-de-mercancia-sino-de-tecnologia.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/CWG7BQQLHRAPBJFXEY24M2DFBM.jpg?auth=696d32f98b6f8c209120c2542072f3b6a72e3f267aedc115ea80c12bec64fefb&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "vivienda alquilerEl creciente negocio de falsificar nóminas para alquilar vivienda: “Te hago indefinido, con la antigüedad que quieras y el sueldo que me digas”",
+    "descripcion": "Los requisitos cada vez mayores de los caseros llevan a algunos inquilinos a hacer uso de prácticas ilegales que conllevan penas de prisión",
+    "link": "https://elpais.com/economia/negocios/2024-05-04/el-creciente-negocio-de-falsificar-nominas-para-alquilar-vivienda-te-hago-indefinido-con-la-antiguedad-que-quieras-y-el-sueldo-que-me-digas.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/THA7CIVPJFDJ7DH2FSA5WEL4WE.JPG?auth=9d0b571a26c88d6a952503894e8877032c6a9a867dc2975e6cadc523449878d1&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "InversionesLas comunidades reciben más de 3.000 millones de fondos europeos para el coche eléctrico",
+    "descripcion": "La producción de baterías y automóviles acaparan, junto a otros proyectos de transición energética y reindustrialización, gran parte de las ayudas",
+    "link": "https://elpais.com/economia/2024-05-04/las-comunidades-destinan-mas-de-3000-millones-de-fondos-europeos-a-los-coches-electricos.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/SGFCHAT5MVDJ7LJ76ZUWN6VU4A.JPG?auth=6eab02f7c27cf8ed709c8eb60281fc5854e5371ca79b2f4a425d819f722917cf&width=414&height=233&focal=1952%2C1362"
+  },
+  {
+    "titulo": "Carta del corresponsalEn Alemania nada de tarjetas de crédito, solo efectivo",
+    "descripcion": "El país es poco amigo del dinero de plástico. Los ciudadanos se resisten a decir adiós a monedas y billetes para preservar a toda costa su privacidad",
+    "link": "https://elpais.com/economia/negocios/2024-05-04/en-alemania-nada-de-tarjetas-de-credito-solo-efectivo.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/TL3QRGVP7VF3DDS2FUWJOV76KI.jpg?auth=ed42282babc2cf3f473e1fe4e8b23a34e53483d8d226da9652ab05a2212cd92d&width=414&height=233&focal=2760%2C1350"
+  },
+  {
+    "titulo": "SOLEDADLa soledad es una epidemia (y también un negocio): TimeLeft le busca amigos para cenar y Weroad compañeros de viaje",
+    "descripcion": "El aislamiento social, un problema cada vez más extendido, atrae a nuevas empresas que, con el apoyo de la tecnología y los fondos de capital riesgo, ofrecen a sus usuarios experiencias en grupo",
+    "link": "https://elpais.com/economia/negocios/2024-05-04/la-soledad-es-una-epidemia-y-tambien-un-negocio-timeleft-le-busca-amigos-para-cenar-y-weroad-companeros-de-viaje.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/L3DRRXP6XRDTXOEWFSW377PYXQ.jpeg?auth=83963aac1dd6af9c67b68c70f23fd184f29a7c231b66f4d8a94e6158e215a712&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "FranquiciasAloha Poké: cómo vender un millón de ensaladas de arroz y pescado",
+    "descripcion": "La empresa, que quiere ligar la alimentación sana a la comida rápida, facturó 13,6 millones  de euros en 2023, un 36% más",
+    "link": "https://elpais.com/economia/negocios/2024-05-04/aloha-poke-como-vender-un-millon-de-ensaladas-de-arroz-y-pescado.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/ILQEZTE5FJDP5GL5PIXZ6BGGSE.jpg?auth=892c3073d4df8263a39e7b2659ad25b97269bf79a0243535d162daa12e28fc0a&width=414&height=233&focal=3659%2C1465"
+  },
+  {
+    "titulo": "SÁBADOS EN 'HOY EN EL PAÍS'‘Podcast’ | Los tres temas de la semana: Sánchez se queda, protestas propalestinas en las universidades y muere Paul Auster",
+    "descripcion": "El presidente promete trabajar “por la regeneración democrática”; el movimiento estudiantil se levanta contra la guerra en Gaza y fallece uno de los novelistas estadounidenses más populares en Europa a causa de un cáncer",
+    "link": "https://elpais.com/podcasts/hoy-en-el-pais/2024-05-04/podcast-los-tres-temas-de-la-semana-sanchez-se-queda-protestas-propalestinas-en-las-universidades-y-muere-paul-auster.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/KH2LDQRIHFFDLO2J6KKAX7ZDHQ.png?auth=6845ac0b25430edfdee521eea54acfa19fbd1fdca2880a4bf3aacaae97dac1a1&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "OpiniónLa peculiar persistencia de la ‘Trumpostalgia’",
+    "descripcion": "Biden nos ha ayudado a atravesar una época de turbulencias hasta llegar a un lugar bastante bueno",
+    "link": "https://elpais.com/economia/negocios/2024-05-04/la-peculiar-persistencia-de-la-trumpostalgia.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/GLLWYXOSMRFDTCBF2DVCWIGNUM.jpg?auth=ff3b571f7d8443830cd92b50926e60f1d843f5712ed5b69a79327239ee85cf21&width=414&height=233&focal=3049%2C1247"
+  },
+  {
+    "titulo": "ELECCIONES EUROPEASSiete de cada 10 europeos creen que su país acoge a demasiados inmigrantes ",
+    "descripcion": "Más del 60% sostienen que la UE debería reforzar su apoyo a Ucrania, temen una guerra inminente con Rusia y se inclinan por un alto el fuego con Moscú, según una encuesta en los 27 Estados miembros",
+    "link": "https://elpais.com/internacional/elecciones-europeas/2024-05-04/siete-de-cada-10-europeos-creen-que-su-pais-acoge-a-demasiados-inmigrantes.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/AA3JNRKVABEH3JQC2ES3ZQUWYQ.jpg?auth=0f87d55ef47f699a9c7335fd97c60031b34a47295222491938d537c0cda7f48b&width=414&height=233&focal=1598%2C568"
+  },
+  {
+    "titulo": "MEMORIA HISTÓRICAFabián Salvioli, relator de la ONU, sobre las ‘leyes antimemoria’: “España puede ser condenada en foros internacionales”",
+    "descripcion": "El coautor del informe responde al presidente de Aragón: “¿No existe lo que él mismo firmó?”",
+    "link": "https://elpais.com/espana/2024-05-04/fabian-salvioli-relator-la-onu-sobre-las-leyes-antimemoria-espana-puede-ser-condenada-en-foros-internacionales.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/TGY2MHU6IIZ6JVWHLHMJZ5AAQI.jpg?auth=551ff39999fb7940783bed6f1beeb0ad0830c3af1dfeac7e55ffaf96e8624b09&width=414&height=233&focal=784%2C137"
+  },
+  {
+    "titulo": "Guerra entre Israel y Gaza¡Es pacifismo por Palestina!",
+    "descripcion": "Toda protesta en favor de los palestinos acaba siendo deslegitimada por el procedimiento de atribuirle un carácter violento y sectario",
+    "link": "https://elpais.com/internacional/2024-05-04/es-pacifismo-por-palestina.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/HUMEROHXQJERLEZEMD34M3G2AM.jpg?auth=97ccdbb941b86218db84c1813983919f35dfb1736f98f564dfcf36bbe70524c6&width=414&height=233&focal=3872%2C652"
+  },
+  {
+    "titulo": "ELECCIONES EUROPEASSalvini coloca como número uno para las elecciones europeas a un general homófobo y racista",
+    "descripcion": "Roberto Vannacci, comandante durante la invasión de Irak y la guerra en Afganistán, cree que las mujeres deberían quedarse en casa y que los negros no representan la italianidad",
+    "link": "https://elpais.com/internacional/elecciones-europeas/2024-05-04/salvini-coloca-como-numero-uno-para-las-elecciones-europeas-a-un-general-homofobo-y-racista.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/UTW7YNC47ITUW4UTAGBHV5IH6U.jpg?auth=293220ff5df5eb6ea5ccbcf90fbba1be31814dc7a669707596deae5f6b01ebc2&width=414&height=233&focal=1479%2C603"
+  },
+  {
+    "titulo": "ELECCIONES CATALANASSocialistas y ERC, aliados por la mañana, rivales por la tarde: “En campaña no hay amigos”",
+    "descripcion": "La alianza entre ambas formaciones se ha consolidado en Madrid, pero la disputa por un mismo electorado exacerba los ataques a Illa y Sánchez en campaña",
+    "link": "https://elpais.com/espana/elecciones-catalanas/2024-05-04/socialistas-y-erc-aliados-por-la-manana-rivales-por-la-tarde-en-campana-no-hay-amigos.html?autoplay=1",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/LKU64CGN7FC3DNFLCESP5AUAWU.jpg?auth=7cd3528cb78558a18de4bb2d0760fd2ff3b3a17a910ca8c43ea498d035ba7f0b&width=414&height=233&focal=1902%2C691"
+  },
+  {
+    "titulo": "refugiadosLas quejas por el sistema de asilo desbordan el buzón del Defensor del Pueblo: “Las situaciones se perpetúan”",
+    "descripcion": "La institución tramita 2.500 reclamaciones de afectados, que pueden tardar hasta dos años en obtener cita",
+    "link": "https://elpais.com/espana/2024-05-04/las-quejas-por-el-sistema-de-asilo-desbordan-el-buzon-del-defensor-del-pueblo-las-situaciones-se-perpetuan.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/WK57GMA5XNG5BJBTH6O3YXTJ3E.jpg?auth=b5e8b378e0551afd8c2d6ced2c7c918d2582af5b98c84d758f9bdf1f2300b316&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "PamplinasLa palabra cruel",
+    "descripcion": "La crueldad es un estado superior de la violencia: la violencia ejercida o contemplada con placer",
+    "link": "https://elpais.com/eps/2024-05-04/la-palabra-cruel.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/5MHS3ZL6LRCAJJYII4PLUT5T3E.jpg?auth=41ce5cf0aa8374988ffd3c0b80c7c1c0b82d67bd1e3069ea9434f7f23f0a4bc9&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "El PulsoEl mariachi ya no es solo cosa de hombres ",
+    "descripcion": "Bandas como Femenil Mariachi Puebla demuestran la imparable pujanza femenina en la actual interpretación del popular género mexicano",
+    "link": "https://elpais.com/eps/2024-05-04/el-mariachi-ya-no-es-solo-cosa-de-hombres.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/PSKXSAXQJVGY3PIXNV7M6NLFWU.jpg?auth=16c359a69ed0d118da3f10d41b0280a37051fe00401e75294d9f1ddceda02465&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "Guerra entre Israel y GazaTabaco, cárceles o carbón: las líneas rojas de las inversiones de la Universidad de Columbia no incluyen a Israel",
+    "descripcion": "La institución ha prohibido en los últimos años destinar capital a algunos sectores pero rechaza romper con empresas ligadas al entorno israelí, como exigen los manifestantes propalestinos",
+    "link": "https://elpais.com/internacional/2024-05-04/tabaco-carceles-o-carbon-las-lineas-rojas-de-las-inversiones-de-columbia-no-incluyen-a-israel.html?autoplay=1",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/IKZV273W7JB4JMBOPCQFMYZ3LM.jpg?auth=e0b46ee5b1a9f29e930348bdcd16b0c1961656b8345461ee88cddbee0bc4eec0&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "gastronomíaMadrid, nueva meca de la cocina mundial",
+    "descripcion": "La capital exhibe potencia turística, músculo inversor y equilibrio calidad-precio para impulsar una oferta cada vez más cosmopolita que explota el juego entre lo ibérico y lo global, lo tradicional y lo contemporáneo. La amenaza de una burbuja y los bajos salarios son las sombras de este momento de fulgor",
+    "link": "https://elpais.com/eps/2024-05-04/madrid-nueva-meca-de-la-cocina-mundial.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/Q62FMDOEJNEKLAUKEVHQ5DIXHE.JPG?auth=c2abea00d734c3c3932419f0be4c2c16d3f962392a2b3235ca7d9ec1d0dec26c&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "ELECCIONES CATALANASPuigdemont se reconcilia con Convergència e invoca la ‘fórmula Pujol’: financiación, lengua y control de la inmigración",
+    "descripcion": "El candidato advierte a Sánchez: “O nos ceden el 100% de los tributos o no habrá Presupuestos”",
+    "link": "https://elpais.com/espana/elecciones-catalanas/2024-05-04/puigdemont-se-reconcilia-con-convergencia-e-invoca-la-formula-pujol-financiacion-lengua-y-control-de-la-inmigracion.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/RASNYKQS3HEDYPCLLJLPPZIS4A.jpg?auth=94a305eddb356652f6d97072904289f43905df80aeec2ccdf431e589a1975b9a&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "Lactancia MaternaPor una sanidad pública que se preocupe por la lactancia materna ",
+    "descripcion": "Existe un vacío sanitario alrededor de algo tan importante, y con beneficios para el bebé tan claramente probados. Lamentablemente, la responsabilidad recae en la madre y la motivación personal de la matrona del centro",
+    "link": "https://elpais.com/mamas-papas/primera-persona/2024-05-04/por-una-sanidad-publica-que-se-preocupe-por-la-lactancia-materna.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/YN5I5E6F5JB2BMZ2M3BTI4VS3Q.jpg?auth=4079b5d4a1bc4921817e052ca569f52ca91e608dd90cb983e093705d5e560cb5&width=414&height=233&focal=3664%2C1943"
+  },
+  {
+    "titulo": "Estados UnidosDe Las Vegas al Gran Cañón: entre el desenfreno urbano y la naturaleza más alucinante",
+    "descripcion": "En un mismo viaje a Nevada es posible pasearse por dos extremos opuestos: uno anclado en la hiperrealidad consumista de la sociedad actual y el otro en lo ancestral, lo que se creó cuando los humanos ni siquiera existíamos",
+    "link": "https://elpais.com/elviajero/2024-05-04/de-las-vegas-al-gran-canon-entre-el-desenfreno-urbano-y-la-naturaleza-mas-alucinante.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/W6RNJHKJDRHXBLC2DBTV3ZGY6Q.jpg?auth=65590a99b45a9b3cf21acda6f3da828a663cc2bac5ff9a53fc6118d41c09fd10&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "DERECHO AL ABORTOEl dique europeo resiste con grietas a la ola antiabortista mundial",
+    "descripcion": "El avance de movimientos y partidos ultraconservadores logra limitar la interrupción voluntaria del embarazo en algunos países de la Unión, mientras otros tratan de blindar el derecho",
+    "link": "https://elpais.com/sociedad/2024-05-04/el-dique-europeo-resiste-con-grietas-a-la-ola-antiabortista-mundial.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/IAPCMTC7AP7CJID3JJHXBTRBAQ.jpg?auth=e7735cfa03387653d2f148cf830a6f37b1e2e587869a94ac08b6339fed19cdc2&width=414&height=233&focal=2524%2C1953"
+  },
+  {
+    "titulo": "EDUCACIÓNTres mitos persistentes en educación que hacen perder tiempo y dinero a estudiantes, familias y profesorado",
+    "descripcion": "La memoria no es un músculo, la lateralidad cruzada no empeora el rendimiento académico, y la dislexia no es un trastorno visual, en contra de lo que todavía cree mucha gente",
+    "link": "https://elpais.com/educacion/2024-05-04/tres-mitos-persistentes-en-educacion-que-hacen-perder-tiempo-y-dinero-a-estudiantes-familias-y-profesorado.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/MSNMHGAJ3NBCLLYTFFFYN3PM2M.jpg?auth=4a9215fb3a6e989707a184684b9f60076c3a9796df961c4b2ad9d5ab11934ece&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "Reino UnidoEl papel del Tribunal Europeo de Justicia en Gibraltar desata los nervios entre los conservadores británicos",
+    "descripcion": "Madrid y Londres se han comprometido a una solución inminente para el encaje post-Brexit del peñón",
+    "link": "https://elpais.com/espana/2024-05-04/el-papel-del-tribunal-europeo-de-justicia-en-gibraltar-desata-los-nervios-entre-los-conservadores-britanicos.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/YMPQEHDIJZEQDOC2IX5PWF7VNY.jpg?auth=21995a5470bd7e07d701757e5cce42ad805619cc43d9bf8ba8b1842b2a9f05c7&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "CARTA DEL DIRECTORDeporte de caballeros",
+    "descripcion": "Hay muchos deseos ocultos que se esconden detrás de la competitividad del deporte",
+    "link": "https://elpais.com/icon/2024-05-04/deporte-de-caballeros.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/755NAKPPYJCM7EPD3IC3NJM2E4.jpg?auth=69db0de55ed20ce9ad06e0879f3df18e8b898ef387e2d439a4116948ff132763&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "buitresLa madre es un buitre leonado de Málaga y el padre, uno moteado de África: el pollo híbrido que abre un debate científico",
+    "descripcion": "Los expertos se plantean si es el nacimiento, el primero documentado de dos especies diferentes, es una oportunidad para la africana, en riesgo de extinción, o si terminará absorbida por la ibérica, más numerosa",
+    "link": "https://elpais.com/clima-y-medio-ambiente/2024-05-04/la-madre-es-un-buitre-leonado-de-malaga-y-el-padre-uno-moteado-de-africa-el-pollo-hibrido-que-abre-un-debate-cientifico.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/QTWDHRRWIVDHBHFKHHLXOP32ZU.JPG?auth=2ede88d4dd185faebff34f524c8caf1e2ecd8e4a02d7b080656498e3ee623e87&width=414&height=233&focal=1707%2C235"
+  },
+  {
+    "titulo": "conversaciones a la contraDoctor X, médico: “Es más sencillo conseguir cocaína que un antibiótico”",
+    "descripcion": "Especializado en la reducción de daños en el consumo de sustancias, Fernando Caudevilla se vio envuelto en el cierre de Silk Road, el llamado Amazon de las drogas. José Ángel Mañas y Jordi Ledesma publican ahora una novela con su historia",
+    "link": "https://elpais.com/cultura/2024-05-04/doctor-x-medico-es-mas-sencillo-conseguir-cocaina-que-un-antibiotico.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/KMKSLMWRIRBUNOSC5RVEAS2ZTI.jpg?auth=8c15fba0c83a7ee545a15670c006bd3331d65608141ba6e62ee0fcb93cdfd3fa&width=414&height=233&focal=3871%2C3829"
+  },
+  {
+    "titulo": "en pocas palabrasCarlos Sadness: “Le he cogido cariño al reguetón”",
+    "descripcion": "El músico barcelonés, exponente del ‘indie’ pop patrio, acaba de editar el álbum ‘Realismo mágico’",
+    "link": "https://elpais.com/babelia/en-pocas-palabras/2024-05-04/carlos-sadness-le-he-cogido-carino-al-regueton.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/7L65J437VZBXHDQGQQA6OK4OLE.jpg?auth=077c9c224fbe626008a2cf59ad4ccfb211493feb0db7b444880d36b23547cb40&width=414&height=233&focal=488%2C439"
+  },
+  {
+    "titulo": "ARTEBienal del Whitney: un reflejo tosco del arte sobre el último cambio social",
+    "descripcion": "La nueva edición de la Bienal del Whitney, la más antigua de América, pasa revista a las obras de autores emergentes que tratan temas como la fluidez del género, las minorías o la crisis del planeta",
+    "link": "https://elpais.com/babelia/2024-05-04/bienal-del-whitney-un-reflejo-tosco-del-arte-sobre-el-ultimo-cambio-social.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/EG3B7XVZ2JAUTBBG3RKDP4I5NM.jpg?auth=3504ec82ddffd05c5f88a1c111ce5a71543bd7207179593ce9230c9a19166c7b&width=414&height=233&focal=2013%2C1677"
+  },
+  {
+    "titulo": "VIÑETASTrampantojo: Cómo se hizo esta tira",
+    "descripcion": "",
+    "link": "https://elpais.com/babelia/2024-05-04/trampantojo-como-se-hizo-esta-tira.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/NTEYISO4RRGIXDCQU73HVJJBQY.jpg?auth=17ab16026bb3bf81f74a0c378d213f2be38cf72cde62fe5240d3c30f473491ce&width=414&height=233&focal=552%2C184"
+  },
+  {
+    "titulo": "EL FARO DEL FIN DEL MUNDOTras el rastro de la tigresa devoradora de hombres de Champawat, que se comió a 436 personas",
+    "descripcion": "Un extraordinario libro revisa con nuevos datos y sensibilidad actual la historia de la fiera más mortífera conocida, cazada por Jim Corbett en la India en 1907",
+    "link": "https://elpais.com/cultura/2024-05-04/tras-el-rastro-de-la-tigresa-devoradora-de-hombres-de-champawat-que-se-comio-a-436-personas.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/FJ24QGVVX5GORK6R5ALRC65OOU.jpg?auth=30586bdfd602a3e218aae21f1a26bc40d102c2701823217682d1923e59597ae4&width=414&height=233&focal=646%2C426"
+  },
+  {
+    "titulo": "MÚSICAEl cante flamenco se vuelve multicolor",
+    "descripcion": "Nuevas grabaciones de los cantaores Miguel Ortega, Enrique El Extremeño y Luis Moneo desvelan una riqueza de matices y tonalidades que se demuestra inextinguible",
+    "link": "https://elpais.com/babelia/2024-05-04/el-cante-flamenco-se-vuelve-multicolor.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/7CQPRA4QZBCW3GGYLMOW6ZQ5SQ.jpg?auth=645fb1e47f72a719f9d5daac0aeecfc643ea3dc55f26f4eda1193f81c8b21dae&width=414&height=233&focal=1099%2C354"
+  },
+  {
+    "titulo": "CRÍTICA LITERARIAEduardo Manzano Moreno, un medievalista contra los falsos mitos de la historia de España",
+    "descripcion": "De la épica de la Reconquista a las bondades del descubrimiento de América, pasando por la pureza de la raza o la suavidad de la Inquisición, el historiador desmonta en su ensayo ‘España diversa. Claves de una historia plural’ las leyendas creadas por publicistas, novelistas y políticos",
+    "link": "https://elpais.com/babelia/2024-04-27/eduardo-manzano-autor-de-espana-diversa-la-historia-es-un-arma-de-destruccion-masiva-la-gente-mata-por-ella.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/VSRX6VIH3VFAVBQVCMI5RLLGJ4.jpg?auth=385515284bc0aec1e0a133fe057490dbb2bdf2c14d9271ea2a8ec10c93b3c08e&width=414&height=233&focal=4067%2C2197"
+  },
+  {
+    "titulo": "cultura digitalNotre Dame en 3D, dinosaurios y mapas de calor: el futuro tecnológico transforma a los museos",
+    "descripcion": "Varias exposiciones muestran cómo las nuevas aplicaciones modifican la forma de interactuar con el arte e incluso de gestionar los espacios culturales",
+    "link": "https://elpais.com/cultura/2024-05-04/notre-dame-en-3d-dinosaurios-y-mapas-de-calor-el-futuro-tecnologico-transforma-a-los-museos.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/XKRGXOTE6ZFJZGR5VQUIIUDKQY.jpg?auth=2f87fe06ea24a2c1695227d792190702dbd4ba2a8b4e5c3de5f2ac1b5395422e&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "CRÍTICA LITERARIA‘Madonas y putas’, un cómic sobre el terror contra las mujeres",
+    "descripcion": "La dibujante y directora de cine Nine Antico compone un relato de dominación machista y banalización de la violencia, aceptada como natural, a partir de tres historias reales",
+    "link": "https://elpais.com/babelia/2024-05-04/madonas-y-putas-un-comic-sobre-el-terror-contra-las-mujeres.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/45L5QA2OXRDJVAFVTJALRQK4CI.jpg?auth=1478f692d86b8fef1a4021200fba473b9e4bbdae934167b099ccf0dc0797cd57&width=414&height=233&focal=1480%2C723"
+  },
+  {
+    "titulo": "CRÍTICA LITERARIAUn cómic sobre la violencia machista, una crónica de la trata de mujeres, el desorden glorioso del mundo y otros libros de la semana",
+    "descripcion": "Los expertos de ‘Babelia’ reseñan los títulos de Alba Muñoz, Victor Heringer, Maria Negroni y Nine Antico",
+    "link": "https://elpais.com/babelia/2024-05-04/un-comic-sobre-la-violencia-machista-una-cronica-de-la-trata-de-mujeres-el-desorden-glorioso-del-mundo-y-otros-libros-de-la-semana.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/RRBYQTV5KJDNJHZCG6D5VOD6UU.jpg?auth=dca9567f9c52a4c568bec1e799d2085390359511044f6f9ad4b8e7c5e8fa0d28&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "Memoria histórica(6p)LPA (GLA5N): el lenguaje secreto que las presas del franquismo escondían en sus cuadernos de labor",
+    "descripcion": "Las mujeres en las cárceles de la dictadura ocultaron en sus cuadernos de costura unas claves para comunicarse entre ellas. En ‘El arte de invocar la memoria’, la historiadora Esther López Barceló pone el foco sobre esta inexplorada forma de resistencia",
+    "link": "https://elpais.com/smoda/feminismo/2024-05-04/el-enigma-que-se-esconde-tras-el-lenguaje-secreto-de-las-presas-politicas-del-franquismo.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/MK5W4N3KXBHRRD26MF32I4E4LI.jpg?auth=b3a58b8bf6ceef36c26e9182d5af35bb656317fe5b598ea7152422b8e0151bdd&width=414&height=233&focal=2373%2C1977"
+  },
+  {
+    "titulo": "librosLa memoria que la Segunda Guerra Mundial y el Holocausto dejaron en la música",
+    "descripcion": "El ensayo ‘El eco del tiempo’ (Paidós), del crítico Jeremy Eichler, investiga el recuerdo de los hechos históricos en la obra de cuatro compositores: Richard Strauss, Arnold Schoenberg, Benjamin Britten y Dmitri Shostakóvich ",
+    "link": "https://elpais.com/cultura/2024-05-04/la-memoria-que-la-segunda-guerra-mundial-y-el-holocausto-dejaron-en-la-musica.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/TJILAAEUINALBNGGLVLWUINGYI.jpg?auth=d38ec64ee8c96b6666becae69ef025cfa1ff140d74a297b5faae2173fcd2dfe4&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "AYUNTAMIENTO DE MADRIDSin piscina pública en el barrio un año sí y al otro también: ¿por qué las obras se eternizan? ",
+    "descripcion": "La mayoría de los espacios de baño municipales cierra hasta cuatro años cuando se acometen reformas integrales. Los vecinos critican falta de planificación y el Ayuntamiento justifica los tiempos por la complejidad de los trabajos ",
+    "link": "https://elpais.com/espana/madrid/2024-05-04/sin-piscina-publica-en-el-barrio-un-ano-si-y-al-otro-tambien-por-que-las-obras-se-eternizan.html",
+    "imagen": "https://imagenes.elpais.com/resizer/v2/2UYTUJ5MT5GRLKEOI3C3B75GBE.jpg?auth=eb8a8945caae00275547cfd2bb1f506d2a07ba770d752e17b9a831653edc9961&width=414&height=233&smart=true"
+  },
+  {
+    "titulo": "ejemplo",
+    "descripcion": "ejemplo",
+    "link": "ejemplo",
+    "imagen": "ejemplo"
+  }
+]
